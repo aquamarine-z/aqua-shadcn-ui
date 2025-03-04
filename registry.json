@@ -14,7 +14,7 @@
       "files": [
         {
           "path": "registry/ui/time-picker.tsx",
-          "type": "registry:ui"
+          "type": "registry:component"
         }
       ]
     }
