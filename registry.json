@@ -13,7 +13,7 @@
       ],
       "files": [
         {
-          "path": "registry/react/ui/time-picker.tsx",
+          "path": "registry/ui/time-picker.tsx",
           "type": "registry:ui"
         }
       ]
