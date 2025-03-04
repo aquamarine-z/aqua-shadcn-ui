@@ -5,7 +5,7 @@
   "items": [
     {
       "name": "time-picker",
-      "type": "registry:component",
+      "type": "registry:ui",
       "title": "Time Picker",
       "description": "Component to let users select a time period",
       "registryDependencies": [
@@ -14,7 +14,22 @@
       "files": [
         {
           "path": "registry/ui/time-picker.tsx",
-          "type": "registry:component"
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "aqua-dialog-content",
+      "type": "registry:ui",
+      "title": "Aqua Dialog Content",
+      "description": "A better DialogContent which can use be set if the default X button is shown",
+      "registryDependencies": [
+        "dialog"
+      ],
+      "files": [
+        {
+          "path": "registry/ui/aqua-dialog-content.tsx",
+          "type": "registry:ui"
         }
       ]
     }
