@@ -1,11 +1,11 @@
-# registry-template
+# registry-template (Tailwind v3)
 
 You can use the `shadcn` CLI to run your own component registry. Running your own
 component registry allows you to distribute your custom components, hooks, pages, and
 other files to any React project.
 
 > [!IMPORTANT]  
-> This template uses Tailwind v3. For Tailwind v4, see [registry-template](https://github.com/shadcn-ui/registry-template-v4). **We recommend using the v4 version for new registries**.
+> This template uses Tailwind v3. For Tailwind v4, see [registry-template](https://github.com/shadcn-ui/registry-template). **We recommend using the v4 version for new registries**.
 
 ## Getting Started
 
