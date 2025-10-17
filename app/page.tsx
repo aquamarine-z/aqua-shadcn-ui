@@ -1,6 +1,6 @@
 'use client'
 import * as React from "react"
-import {showCustomModal} from "@/registry/ui/modal";
+
 
 export default function Home() {
     return (
