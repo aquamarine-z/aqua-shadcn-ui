@@ -38,12 +38,15 @@
       "type": "registry:ui",
       "title": "Modal",
       "description": "A group of function for showing modal",
+      "dependencies": [
+        "@ebay/nice-modal-react"
+      ],
       "registryDependencies": [
         "dialog"
       ],
       "files": [
         {
-          "path": "registry/ui/aqua-dialog-content.tsx",
+          "path": "registry/ui/modal.tsx",
           "type": "registry:ui"
         }
       ]
